@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "question": "What are the visiting hours?",
+    "answer": "General visiting hours are daily from 10:00 AM to 8:00 PM. ICU visiting hours are strictly restricted from 11:00 AM to 12:00 PM and 5:00 PM to 6:00 PM.",
+    "department": "General",
+    "citation": "Hospital Operational Guidelines v4.2, Section 3"
+  },
+  {
+    "id": 2,
+    "question": "Which departments are available?",
+    "answer": "We offer multi-specialty care including Cardiology, Neurology, Pediatrics, General Medicine, and Orthopedics, supported by 24/7 Emergency and Radiology services.",
+    "department": "Administration",
+    "citation": "Hospital Directory & Services Handbook 2026"
+  },
+  {
+    "id": 3,
+    "question": "Where is the emergency department located?",
+    "answer": "The 24/7 Emergency Department is located on the ground floor, East Wing, with dedicated ambulance bay access.",
+    "department": "Emergency",
+    "citation": "Facility Navigation Guide, Map Ref E-1"
+  }
+]

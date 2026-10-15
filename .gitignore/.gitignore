@@ -1,0 +1,12 @@
+# Ignore heavy frontend packages
+frontend/node_modules/
+frontend/dist/
+
+# Ignore Python virtual environment
+backend/venv/
+venv/
+__pycache__/
+
+# Ignore temporary system files
+.DS_Store
+.env

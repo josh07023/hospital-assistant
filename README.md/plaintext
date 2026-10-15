@@ -1,0 +1,27 @@
+hospital-health-assistant/
+├── backend/
+│   ├── data/
+│   │   ├── faqs.json
+│   │   ├── diseases.json
+│   └──   └── appointments.json
+│   ├── tests/
+│   │   └── test_main.py
+│   ├── main.py
+│   ├── tools.py
+│   ├── database.py
+│   ├── requirements.txt
+│   ├── .env.example
+│   └── render.yaml
+├── frontend/  
+    ├── src/
+    │   ├── App.jsx
+    │   ├── main.jsx
+    │   └── index.css
+    ├── package.json
+    ├── vite.config.js
+    ├── tailwind.config.js
+    ├── postcss.config.js
+    ├── index.html
+    └── vercel.json
+ 
+ The stack features a React (Vite + Tailwind CSS) frontend styled in a minimalist, serene blue/slate calm tone, backed by a FastAPI service powered by the Google Gemini API, and persistent Local JSON data storage.

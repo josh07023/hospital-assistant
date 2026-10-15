@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "condition": "Hypertension (High Blood Pressure)",
+    "description": "A common condition in which the long-term force of the blood against your artery walls is high enough that it may eventually cause health problems.",
+    "symptoms": ["Headaches", "Shortness of breath", "Dizziness", "Chest pain (severe)"],
+    "prevention": ["Low-sodium diet", "Regular aerobic exercise", "Weight management", "Limit alcohol and avoid tobacco"],
+    "department": "Cardiology"
+  },
+  {
+    "id": 2,
+    "condition": "Type 2 Diabetes Mellitus",
+    "description": "A chronic condition affecting how your body processes blood sugar (glucose).",
+    "symptoms": ["Increased thirst", "Frequent urination", "Fatigue", "Blurred vision"],
+    "prevention": ["Whole grain, high-fiber diet", "Regular physical activity", "Maintaining healthy body weight"],
+    "department": "General Medicine"
+  },
+  {
+    "id": 3,
+    "condition": "Migraine",
+    "description": "A neurological condition causing throbbing headaches, usually on one side, with sensitivity to light and sound.",
+    "symptoms": ["Throbbing head pain", "Nausea", "Sensitivity to light/sound", "Visual aura"],
+    "prevention": ["Avoid known food/stress triggers", "Consistent sleep schedule", "Hydration"],
+    "department": "Neurology"
+  },
+  {
+    "id": 4,
+    "condition": "Osteoarthritis",
+    "description": "Degenerative joint disease where protective cartilage cushioning bone ends wears down.",
+    "symptoms": ["Joint pain", "Stiffness after inactivity", "Loss of flexibility"],
+    "prevention": ["Low-impact exercises (swimming/cycling)", "Healthy weight maintenance"],
+    "department": "Orthopedics"
+  }
+]
